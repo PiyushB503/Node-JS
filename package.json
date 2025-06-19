@@ -1,0 +1,25 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "node project ",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+     "postbuild": "mkdir -p dist/data && cp src/data/data.json dist/data/data.json",
+    "start": "tsc && node dist/index.js",
+    "dev": "tsc --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "morgan": "^1.10.0",
+    "winston": "^3.17.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.3",
+    "@types/morgan": "^1.9.10",
+    "@types/winston": "^2.4.4",
+    "typescript": "^5.8.3"
+  }
+}

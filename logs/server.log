@@ -1,0 +1,60 @@
+[2025-06-19T07:11:04.712Z] GET /
+[2025-06-19T07:11:04.777Z] GET /favicon.ico
+[2025-06-19T07:11:17.482Z] GET /error
+[2025-06-19T07:11:17.482Z] ERROR: GET /error - This is a test error!
+[2025-06-19T07:12:05.109Z] GET /
+[2025-06-19T07:12:10.234Z] GET /error
+[2025-06-19T07:12:10.235Z] ERROR: GET /error - This is a test error!
+[2025-06-19T07:13:14.234Z] GET /
+[2025-06-19T07:19:46.505Z] GET /
+[2025-06-19T07:19:52.081Z] GET /error
+[2025-06-19T07:19:52.082Z] ERROR: GET /error - This is a test error!
+[2025-06-19T07:47:37.191Z] GET /
+[2025-06-19T07:47:37.298Z] GET /favicon.ico
+[2025-06-19T07:47:49.434Z] GET /books
+[2025-06-19T07:47:49.435Z] ERROR: GET /books - ENOENT: no such file or directory, open '/Users/piyush.bhardwaj1/Documents/NodeJS/dist/data/data.json'
+[2025-06-19T07:48:28.979Z] GET /.well-known/appspecific/com.chrome.devtools.json
+[2025-06-19T07:51:04.485Z] GET /
+[2025-06-19T07:51:08.993Z] GET /books
+[2025-06-19T07:51:08.994Z] ERROR: GET /books - ENOENT: no such file or directory, open '/Users/piyush.bhardwaj1/Documents/NodeJS/dist/data/data.json'
+[2025-06-19T07:52:12.797Z] GET /
+[2025-06-19T07:52:18.713Z] GET /books
+[2025-06-19T07:52:18.714Z] ERROR: GET /books - ENOENT: no such file or directory, open '/Users/piyush.bhardwaj1/Documents/NodeJS/dist/data/data.json'
+[2025-06-19T07:54:05.183Z] GET /
+[2025-06-19T07:54:08.959Z] GET /error
+[2025-06-19T07:54:08.960Z] ERROR: GET /error - This is a test error!
+[2025-06-19T07:54:09.193Z] GET /error
+[2025-06-19T07:54:09.195Z] ERROR: GET /error - This is a test error!
+[2025-06-19T07:54:15.116Z] GET /books
+[2025-06-19T07:54:15.117Z] ERROR: GET /books - ENOENT: no such file or directory, open '/Users/piyush.bhardwaj1/Documents/NodeJS/dist/data/data.json'
+[2025-06-19T07:56:33.552Z] GET /
+[2025-06-19T07:56:37.046Z] GET /books
+[2025-06-19T07:56:37.047Z] ERROR: GET /books - ENOENT: no such file or directory, open '/Users/piyush.bhardwaj1/Documents/NodeJS/dist/data/data.json'
+[2025-06-19T07:56:37.194Z] GET /books
+[2025-06-19T07:56:37.195Z] ERROR: GET /books - ENOENT: no such file or directory, open '/Users/piyush.bhardwaj1/Documents/NodeJS/dist/data/data.json'
+[2025-06-19T07:57:55.050Z] GET /
+[2025-06-19T07:58:02.300Z] GET /books
+[2025-06-19T07:58:02.302Z] ERROR: GET /books - ENOENT: no such file or directory, open '/Users/piyush.bhardwaj1/Documents/NodeJS/dist/data/data.json'
+[2025-06-19T07:58:02.529Z] GET /books
+[2025-06-19T07:58:02.531Z] ERROR: GET /books - ENOENT: no such file or directory, open '/Users/piyush.bhardwaj1/Documents/NodeJS/dist/data/data.json'
+[2025-06-19T07:58:45.260Z] GET /bookId
+[2025-06-19T07:58:48.469Z] GET /.well-known/appspecific/com.chrome.devtools.json
+[2025-06-19T08:00:43.770Z] GET /
+[2025-06-19T08:00:55.299Z] GET /books
+[2025-06-19T08:00:55.301Z] ERROR: GET /books - ENOENT: no such file or directory, open '/Users/piyush.bhardwaj1/Documents/NodeJS/data/data.json'
+[2025-06-19T08:00:55.734Z] GET /books
+[2025-06-19T08:00:55.735Z] ERROR: GET /books - ENOENT: no such file or directory, open '/Users/piyush.bhardwaj1/Documents/NodeJS/data/data.json'
+[2025-06-19T08:05:40.739Z] GET /
+[2025-06-19T08:05:44.907Z] GET /books
+[2025-06-19T08:05:44.910Z] ERROR: GET /books - ENOENT: no such file or directory, open '/Users/piyush.bhardwaj1/Documents/NodeJS/data/data.json'
+[2025-06-19T08:05:45.260Z] GET /books
+[2025-06-19T08:05:45.262Z] ERROR: GET /books - ENOENT: no such file or directory, open '/Users/piyush.bhardwaj1/Documents/NodeJS/data/data.json'
+[2025-06-19T08:05:47.699Z] GET /.well-known/appspecific/com.chrome.devtools.json
+[2025-06-19T08:08:34.912Z] GET /
+[2025-06-19T08:08:37.418Z] GET /.well-known/appspecific/com.chrome.devtools.json
+[2025-06-19T08:08:46.674Z] GET /books
+[2025-06-19T08:08:46.677Z] ERROR: GET /books - ENOENT: no such file or directory, open '/Users/piyush.bhardwaj1/Documents/NodeJS/data/data.json'
+[2025-06-19T08:08:46.700Z] GET /.well-known/appspecific/com.chrome.devtools.json
+[2025-06-19T09:21:44.684Z] GET /
+[2025-06-19T09:21:52.943Z] GET /books
+[2025-06-19T09:22:43.187Z] GET /books
