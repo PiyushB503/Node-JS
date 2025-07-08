@@ -1,4 +1,4 @@
-import book from '../models/bookType.js';
+import book from '../models/book-type.js';
 import fs from 'fs/promises';
 class bookService{
     private filePath='data.json'
